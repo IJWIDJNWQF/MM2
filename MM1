@@ -12,9 +12,9 @@ Section:NewToggle("ลองเองExiHub "ลองเองExiHub.Info"
     end
 end)
 
-local Tab = Window:NewTab("Main")
-local Section = Tab:NewSection("Main")
+local Tab = Window:NewTab("Auto Fram")
+local Section = Tab:NewSection("Auto Fram")
 
-Section:NewButton(Noclip ExiHub", "Noclip ExiHub.Info", function()
+Section:NewButton(Fram ExiHub", "Exi Info", function()
     print("Clicked")
 end)
